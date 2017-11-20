@@ -11,12 +11,6 @@ Here I use some method from those paper
 - [ConceptNet](http://conceptnet.io/)
 
 ## How can you use this code 
-1. Install spaCy and download spacy model
-pip install -U spacy
+1. Install spaCy and download spacy model <br /> pip install -U spacy <br /> python -m spacy download en_core_web_sm
 
-python -m spacy download en_core_web_sm
-
-2. Just run python code without instructions
-./NLP_PDPs.py
-
-wait for it ends
+2. Just run python code without instructions <br />./NLP_PDPs.py <br />wait for it ends
