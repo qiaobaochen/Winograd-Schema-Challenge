@@ -1,0 +1,849 @@
+Problem Number: 1
+Use Similarity 
+answer : A correctAnswer: A
+Problem Number: 2
+Use Similarity 
+answer : A correctAnswer: B
+Problem Number: 3
+Use Key words :fit large
+answer : A correctAnswer: A
+Problem Number: 4
+Use Key words :fit small
+answer : B correctAnswer: B
+Problem Number: 5
+Use Key words :thank recieved
+answer : A correctAnswer: A
+Problem Number: 6
+Use Key words :thank given
+answer : A correctAnswer: B
+Problem Number: 7
+Use Key words :call successful
+answer : A correctAnswer: A
+Problem Number: 8
+Use Key words :call available
+answer : B correctAnswer: B
+Problem Number: 9
+Use Key words :asked repeat
+answer : A correctAnswer: A
+Problem Number: 10
+Use Key words :asked answer
+answer : B correctAnswer: B
+Problem Number: 11
+Use Similarity 
+answer : A correctAnswer: A
+Problem Number: 12
+Use Similarity 
+answer : A correctAnswer: B
+Problem Number: 13
+Use Similarity 
+answer : B correctAnswer: A
+Problem Number: 14
+Use Similarity 
+answer : B correctAnswer: B
+Problem Number: 15
+Use Key words :lift weak
+answer : A correctAnswer: A
+Problem Number: 16
+Use Key words :lift heavy
+answer : B correctAnswer: B
+Problem Number: 17
+Use Similarity 
+answer : B correctAnswer: A
+Problem Number: 18
+Use Similarity 
+answer : B correctAnswer: B
+Problem Number: 19
+Use Key words :see short
+answer : A correctAnswer: A
+Problem Number: 20
+Use Key words :see tall
+answer : A correctAnswer: B
+Problem Number: 21
+Use Key words :threw reached
+answer : B correctAnswer: A
+Problem Number: 22
+Use Key words :threw reached
+answer : B correctAnswer: B
+Problem Number: 23
+Use Similarity 
+answer : B correctAnswer: A
+Problem Number: 24
+Use Similarity 
+answer : B correctAnswer: B
+Problem Number: 25
+Use Similarity 
+answer : A correctAnswer: A
+Problem Number: 26
+Use Key words :rolled was
+answer : A correctAnswer: B
+Problem Number: 27
+Use Similarity 
+answer : B correctAnswer: A
+Problem Number: 28
+Use Similarity 
+answer : B correctAnswer: B
+Problem Number: 29
+Use Similarity 
+answer : A correctAnswer: A
+Problem Number: 30
+Use Similarity 
+answer : A correctAnswer: B
+Problem Number: 31
+Use Key words :arrived coming
+answer : A correctAnswer: A
+Problem Number: 32
+Use Key words :arrived coming
+answer : A correctAnswer: B
+Problem Number: 33
+Use Key words :was work
+answer : B correctAnswer: A
+Problem Number: 34
+Use Key words :was work
+answer : A correctAnswer: B
+Problem Number: 35
+Use Key words :yelled upset
+answer : A correctAnswer: A
+Problem Number: 36
+Use Key words :comforted upset
+answer : A correctAnswer: B
+Problem Number: 37
+Use Similarity 
+answer : B correctAnswer: A
+Problem Number: 38
+Use Similarity 
+answer : B correctAnswer: B
+Problem Number: 39
+Use Similarity 
+answer : B correctAnswer: A
+Problem Number: 40
+Use Similarity 
+answer : B correctAnswer: B
+Problem Number: 41
+Use Similarity 
+answer : A correctAnswer: A
+Problem Number: 42
+Use Similarity 
+answer : A correctAnswer: B
+Problem Number: 43
+Use Similarity 
+answer : B correctAnswer: A
+Problem Number: 44
+Use Similarity 
+answer : B correctAnswer: B
+Problem Number: 45
+Use Similarity 
+answer : B correctAnswer: A
+Problem Number: 46
+Use Similarity 
+answer : B correctAnswer: B
+Problem Number: 47
+Use Key words :explained convince
+answer : A correctAnswer: A
+Problem Number: 48
+Use Key words :explained understand
+answer : A correctAnswer: B
+Problem Number: 49
+Use Similarity 
+answer : A correctAnswer: A
+Problem Number: 50
+Use Similarity 
+answer : A correctAnswer: B
+Problem Number: 51
+Use Similarity 
+answer : B correctAnswer: A
+Problem Number: 52
+Use Similarity 
+answer : A correctAnswer: B
+Problem Number: 53
+Use Key words :shows is
+answer : A correctAnswer: A
+Problem Number: 54
+Use Key words :shows is
+answer : A correctAnswer: B
+Problem Number: 55
+Use Similarity 
+answer : B correctAnswer: A
+Problem Number: 56
+Use Similarity 
+answer : B correctAnswer: B
+Problem Number: 57
+Use Similarity 
+answer : A correctAnswer: A
+Problem Number: 58
+Use Similarity 
+answer : A correctAnswer: B
+Problem Number: 59
+Use Key words :was worked
+answer : A correctAnswer: A
+Problem Number: 60
+Use Key words :delayed worked
+answer : A correctAnswer: B
+Problem Number: 61
+Use Similarity 
+answer : A correctAnswer: A
+Problem Number: 62
+Use Similarity 
+answer : B correctAnswer: B
+Problem Number: 63
+Use Similarity 
+answer : A correctAnswer: A
+Problem Number: 64
+Use Similarity 
+answer : A correctAnswer: B
+Problem Number: 65
+Use Similarity 
+answer : B correctAnswer: A
+Problem Number: 66
+Use Similarity 
+answer : B correctAnswer: B
+Problem Number: 67
+Use Similarity 
+answer : A correctAnswer: A
+Problem Number: 68
+Use Similarity 
+answer : B correctAnswer: B
+Problem Number: 69
+Use Key words :closes forgotten
+answer : A correctAnswer: A
+Problem Number: 70
+Use Key words :closes forgotten
+answer : A correctAnswer: B
+Problem Number: 71
+Use Similarity 
+answer : B correctAnswer: A
+Problem Number: 72
+Use Similarity 
+answer : B correctAnswer: B
+Problem Number: 73
+Use Similarity 
+answer : A correctAnswer: A
+Problem Number: 74
+Use Similarity 
+answer : B correctAnswer: B
+Problem Number: 75
+Use Key words :show good
+answer : A correctAnswer: A
+Problem Number: 76
+Use Key words :show famous
+answer : A correctAnswer: B
+Problem Number: 77
+Use Similarity 
+answer : A correctAnswer: A
+Problem Number: 78
+Use Similarity 
+answer : A correctAnswer: B
+Problem Number: 79
+Use Similarity 
+answer : A correctAnswer: A
+Problem Number: 80
+Use Similarity 
+answer : A correctAnswer: B
+Problem Number: 81
+Use Key words :had won
+answer : A correctAnswer: A
+Problem Number: 82
+Use Key words :had lost
+answer : A correctAnswer: B
+Problem Number: 83
+Use Similarity 
+answer : B correctAnswer: A
+Problem Number: 84
+Use Similarity 
+answer : B correctAnswer: B
+Problem Number: 85
+Use Key words :succeeded gotten
+answer : A correctAnswer: A
+Problem Number: 86
+Use Key words :succeeded lost
+answer : A correctAnswer: B
+Problem Number: 87
+Use Key words :got hot
+answer : A correctAnswer: A
+Problem Number: 88
+Use Key words :got cooler
+answer : A correctAnswer: B
+Problem Number: 89
+Use Similarity 
+answer : A correctAnswer: A
+Problem Number: 90
+Use Similarity 
+answer : A correctAnswer: B
+Problem Number: 91
+Use Key words :gave is
+answer : B correctAnswer: A
+Problem Number: 92
+Use Key words :gave is
+answer : B correctAnswer: B
+Problem Number: 93
+Use Key words :wonder behaving
+answer : A correctAnswer: A
+Problem Number: 94
+Use Key words :wonder behaving
+answer : A correctAnswer: B
+Problem Number: 95
+Use Key words :was unhappy
+answer : A correctAnswer: A
+Problem Number: 96
+Use Key words :was unhappy
+answer : A correctAnswer: B
+Problem Number: 97
+Use Key words :ate hungry
+answer : A correctAnswer: A
+Problem Number: 98
+Use Key words :ate tasty
+answer : B correctAnswer: B
+Problem Number: 99
+Use Similarity 
+answer : A correctAnswer: A
+Problem Number: 100
+Use Similarity 
+answer : A correctAnswer: B
+Problem Number: 101
+Use Key words :chased waited
+answer : A correctAnswer: A
+Problem Number: 102
+Use Key words :chased waited
+answer : A correctAnswer: B
+Problem Number: 103
+Use Key words :get removed
+answer : A correctAnswer: A
+Problem Number: 104
+Use Key words :get repaired
+answer : A correctAnswer: B
+Problem Number: 105
+Use Similarity 
+answer : A correctAnswer: A
+Problem Number: 106
+Use Similarity 
+answer : A correctAnswer: B
+Problem Number: 107
+Use Similarity 
+answer : A correctAnswer: A
+Problem Number: 108
+Use Similarity 
+answer : A correctAnswer: B
+Problem Number: 109
+Use Key words :juggling impressed
+answer : A correctAnswer: A
+Problem Number: 110
+Use Key words :juggling impressive
+answer : A correctAnswer: B
+Problem Number: 111
+Use Similarity 
+answer : A correctAnswer: A
+Problem Number: 112
+Use Similarity 
+answer : A correctAnswer: B
+Problem Number: 113
+Use Similarity 
+answer : B correctAnswer: A
+Problem Number: 114
+Use Similarity 
+answer : B correctAnswer: B
+Problem Number: 115
+Use Key words :told truthful
+answer : A correctAnswer: A
+Problem Number: 116
+Use Key words :told skeptical
+answer : A correctAnswer: B
+Problem Number: 117
+Use Similarity 
+answer : A correctAnswer: A
+Problem Number: 118
+Use Similarity 
+answer : A correctAnswer: B
+Problem Number: 119
+Use Similarity 
+answer : A correctAnswer: A
+Problem Number: 120
+Use Key words :read writes
+answer : B correctAnswer: B
+Problem Number: 121
+Use Similarity 
+answer : A correctAnswer: A
+Problem Number: 122
+Use Similarity 
+answer : A correctAnswer: B
+Problem Number: 123
+Use Similarity 
+answer : B correctAnswer: A
+Problem Number: 124
+Use Similarity 
+answer : B correctAnswer: B
+Problem Number: 125
+Use Similarity 
+answer : A correctAnswer: A
+Problem Number: 126
+Use Similarity 
+answer : A correctAnswer: B
+Problem Number: 127
+Use Similarity 
+answer : B correctAnswer: A
+Problem Number: 128
+Use Similarity 
+answer : B correctAnswer: B
+Problem Number: 129
+Use Similarity 
+answer : B correctAnswer: A
+Problem Number: 130
+Use Similarity 
+answer : B correctAnswer: B
+Problem Number: 131
+Use Similarity 
+answer : A correctAnswer: A
+Problem Number: 132
+Use Similarity 
+answer : A correctAnswer: B
+Problem Number: 133
+Use Similarity 
+answer : A correctAnswer: A
+Problem Number: 134
+Use Similarity 
+answer : A correctAnswer: B
+Problem Number: 135
+Use Key words :took speak
+answer : B correctAnswer: A
+Problem Number: 136
+Use Similarity 
+answer : B correctAnswer: B
+Problem Number: 137
+Use Similarity 
+answer : B correctAnswer: A
+Problem Number: 138
+Use Similarity 
+answer : B correctAnswer: B
+Problem Number: 139
+Use Similarity 
+answer : A correctAnswer: A
+Problem Number: 140
+Use Similarity 
+answer : A correctAnswer: B
+Problem Number: 141
+Use Similarity 
+answer : B correctAnswer: A
+Problem Number: 142
+Use Similarity 
+answer : B correctAnswer: B
+Problem Number: 143
+Use Similarity 
+answer : A correctAnswer: A
+Problem Number: 144
+Use Similarity 
+answer : A correctAnswer: B
+Problem Number: 145
+Use Key words :tucked work
+answer : A correctAnswer: A
+Problem Number: 146
+Use Key words :tucked sleep
+answer : A correctAnswer: B
+Problem Number: 147
+Use Key words :had prepared
+answer : B correctAnswer: A
+Problem Number: 148
+Use Key words :had enough
+answer : B correctAnswer: B
+Problem Number: 149
+Use Similarity 
+answer : A correctAnswer: A
+Problem Number: 150
+Use Similarity 
+answer : A correctAnswer: B
+Problem Number: 151
+Use Similarity 
+answer : A correctAnswer: A
+Problem Number: 152
+Use Similarity 
+answer : A correctAnswer: B
+Problem Number: 153
+Use Similarity 
+answer : A correctAnswer: A
+Problem Number: 154
+Use Similarity 
+answer : A correctAnswer: B
+Problem Number: 155
+Use Similarity 
+answer : B correctAnswer: A
+Problem Number: 156
+Use Similarity 
+answer : B correctAnswer: B
+Problem Number: 157
+Use Key words :getting bold
+answer : A correctAnswer: A
+Problem Number: 158
+Use Key words :getting nervous
+answer : A correctAnswer: B
+Problem Number: 159
+Use Similarity 
+answer : B correctAnswer: A
+Problem Number: 160
+Use Similarity 
+answer : B correctAnswer: B
+Problem Number: 161
+Use Similarity 
+answer : A correctAnswer: A
+Problem Number: 162
+Use Similarity 
+answer : B correctAnswer: B
+Problem Number: 163
+Use Similarity 
+answer : A correctAnswer: A
+Problem Number: 164
+Use Similarity 
+answer : A correctAnswer: B
+Problem Number: 165
+Use Similarity 
+answer : B correctAnswer: A
+Problem Number: 166
+Use Similarity 
+answer : B correctAnswer: B
+Problem Number: 167
+Use Key words :is is
+answer : A correctAnswer: A
+Problem Number: 168
+Use Key words :is was
+answer : A correctAnswer: B
+Problem Number: 169
+Use Key words :saw old
+answer : A correctAnswer: A
+Problem Number: 170
+Use Key words :saw old
+answer : A correctAnswer: B
+Problem Number: 171
+Use Similarity 
+answer : A correctAnswer: A
+Problem Number: 172
+Use Similarity 
+answer : A correctAnswer: B
+Problem Number: 173
+Use Similarity 
+answer : A correctAnswer: A
+Problem Number: 174
+Use Similarity 
+answer : A correctAnswer: B
+Problem Number: 175
+Use Similarity 
+answer : B correctAnswer: A
+Problem Number: 176
+Use Similarity 
+answer : B correctAnswer: B
+Problem Number: 177
+Use Key words :living began
+answer : A correctAnswer: A
+Problem Number: 178
+Use Key words :living appeared
+answer : A correctAnswer: B
+Problem Number: 179
+Use Key words :interviewed lasted
+answer : A correctAnswer: A
+Problem Number: 180
+Use Key words :interviewed lasted
+answer : A correctAnswer: B
+Problem Number: 181
+Use Key words :arrested stop
+answer : A correctAnswer: A
+Problem Number: 182
+Use Key words :arrested run
+answer : A correctAnswer: B
+Problem Number: 183
+Use Similarity 
+answer : B correctAnswer: A
+Problem Number: 184
+Use Similarity 
+answer : B correctAnswer: B
+Problem Number: 185
+Use Similarity 
+answer : B correctAnswer: A
+Problem Number: 186
+Use Similarity 
+answer : B correctAnswer: B
+Problem Number: 187
+Use Key words :was much
+answer : B correctAnswer: A
+Problem Number: 188
+Use Key words :was much
+answer : B correctAnswer: B
+Problem Number: 189
+Use Similarity 
+answer : A correctAnswer: A
+Problem Number: 190
+Use Similarity 
+answer : A correctAnswer: B
+Problem Number: 191
+Use Similarity 
+answer : A correctAnswer: A
+Problem Number: 192
+Use Similarity 
+answer : A correctAnswer: B
+Problem Number: 193
+Use Similarity 
+answer : A correctAnswer: A
+Problem Number: 194
+Use Similarity 
+answer : B correctAnswer: B
+Problem Number: 195
+Use Similarity 
+answer : A correctAnswer: A
+Problem Number: 196
+Use Similarity 
+answer : A correctAnswer: B
+Problem Number: 197
+Use Similarity 
+answer : A correctAnswer: A
+Problem Number: 198
+Use Similarity 
+answer : A correctAnswer: B
+Problem Number: 199
+Use Key words :fit wide
+answer : B correctAnswer: A
+Problem Number: 200
+Use Key words :fit narrow
+answer : B correctAnswer: B
+Problem Number: 201
+Use Similarity 
+answer : A correctAnswer: A
+Problem Number: 202
+Use Similarity 
+answer : A correctAnswer: B
+Problem Number: 203
+Use Similarity 
+answer : B correctAnswer: A
+Problem Number: 204
+Use Similarity 
+answer : B correctAnswer: B
+Problem Number: 205
+Use Key words :leave left
+answer : A correctAnswer: A
+Problem Number: 206
+Use Key words :leave left
+answer : A correctAnswer: B
+Problem Number: 207
+Use Similarity 
+answer : A correctAnswer: A
+Problem Number: 208
+Use Similarity 
+answer : A correctAnswer: B
+Problem Number: 209
+Use Similarity 
+answer : B correctAnswer: A
+Problem Number: 210
+Use Similarity 
+answer : B correctAnswer: B
+Problem Number: 211
+Use Similarity 
+answer : A correctAnswer: A
+Problem Number: 212
+Use Similarity 
+answer : A correctAnswer: B
+Problem Number: 213
+Use Key words :paid received
+answer : B correctAnswer: A
+Problem Number: 214
+Use Key words :paid delivered
+answer : A correctAnswer: B
+Problem Number: 215
+Use Key words :get counted
+answer : A correctAnswer: A
+Problem Number: 216
+Use Key words :get apologized
+answer : A correctAnswer: B
+Problem Number: 217
+Use Similarity 
+answer : A correctAnswer: A
+Problem Number: 218
+Use Similarity 
+answer : A correctAnswer: B
+Problem Number: 219
+Use Similarity 
+answer : B correctAnswer: A
+Problem Number: 220
+Use Similarity 
+answer : B correctAnswer: B
+Problem Number: 221
+Use Similarity 
+answer : A correctAnswer: A
+Problem Number: 222
+Use Similarity 
+answer : A correctAnswer: B
+Problem Number: 223
+Use Key words :passed see
+answer : B correctAnswer: A
+Problem Number: 224
+Use Key words :passed see
+answer : B correctAnswer: B
+Problem Number: 225
+Use Similarity 
+answer : A correctAnswer: A
+Problem Number: 226
+Use Similarity 
+answer : A correctAnswer: B
+Problem Number: 227
+Use Key words :passed full
+answer : B correctAnswer: A
+Problem Number: 228
+Use Key words :passed hungry
+answer : A correctAnswer: B
+Problem Number: 229
+Use Similarity 
+answer : B correctAnswer: A
+Problem Number: 230
+Use Similarity 
+answer : B correctAnswer: B
+Problem Number: 231
+Use Similarity 
+answer : B correctAnswer: A
+Problem Number: 232
+Use Similarity 
+answer : B correctAnswer: B
+Problem Number: 233
+Use Similarity 
+answer : A correctAnswer: A
+Problem Number: 234
+Use Similarity 
+answer : A correctAnswer: B
+Problem Number: 235
+Use Similarity 
+answer : B correctAnswer: A
+Problem Number: 236
+Use Similarity 
+answer : B correctAnswer: B
+Problem Number: 237
+Use Similarity 
+answer : B correctAnswer: A
+Problem Number: 238
+Use Similarity 
+answer : B correctAnswer: B
+Problem Number: 239
+Use Similarity 
+answer : B correctAnswer: A
+Problem Number: 240
+Use Similarity 
+answer : B correctAnswer: B
+Problem Number: 241
+Use Similarity 
+answer : A correctAnswer: A
+Problem Number: 242
+Use Similarity 
+answer : A correctAnswer: B
+Problem Number: 243
+Use Similarity 
+answer : B correctAnswer: A
+Problem Number: 244
+Use Similarity 
+answer : B correctAnswer: B
+Problem Number: 245
+Use Similarity 
+answer : B correctAnswer: A
+Problem Number: 246
+Use Similarity 
+answer : B correctAnswer: B
+Problem Number: 247
+Use Similarity 
+answer : A correctAnswer: A
+Problem Number: 248
+Use Similarity 
+answer : A correctAnswer: B
+Problem Number: 249
+Use Key words :informed presented
+answer : A correctAnswer: A
+Problem Number: 250
+Use Key words :informed presented
+answer : A correctAnswer: B
+Problem Number: 251
+Use Key words :stop compassionate
+answer : A correctAnswer: A
+Problem Number: 252
+Use Key words :stop cruel
+answer : A correctAnswer: B
+Problem Number: 253
+Use Key words :got see
+answer : A correctAnswer: A
+Problem Number: 254
+Use Key words :got see
+answer : A correctAnswer: B
+Problem Number: 255
+Use Key words :got see
+answer : A correctAnswer: A
+Problem Number: 256
+Use Similarity 
+answer : A correctAnswer: A
+Problem Number: 257
+Use Similarity 
+answer : A correctAnswer: B
+Problem Number: 258
+Use Similarity 
+answer : A correctAnswer: A
+Problem Number: 259
+Use Similarity 
+answer : A correctAnswer: B
+Problem Number: 260
+Use Similarity 
+answer : A correctAnswer: A
+Problem Number: 261
+Use Key words :asked refused
+answer : A correctAnswer: B
+Problem Number: 262
+Use Key words :ceded popular
+answer : A correctAnswer: A
+Problem Number: 263
+Use Key words :ceded popular
+answer : A correctAnswer: B
+Problem Number: 264
+Use Key words :saw open
+answer : B correctAnswer: A
+Problem Number: 265
+Use Key words :pass open
+answer : B correctAnswer: B
+Problem Number: 266
+Use Similarity 
+answer : B correctAnswer: A
+Problem Number: 267
+Use Similarity 
+answer : B correctAnswer: B
+Problem Number: 268
+Use Key words :fired stand
+answer : A correctAnswer: A
+Problem Number: 269
+Use Key words :fired slept
+answer : B correctAnswer: B
+Problem Number: 270
+Use Similarity 
+answer : B correctAnswer: A
+Problem Number: 271
+Use Similarity 
+answer : B correctAnswer: B
+Problem Number: 272
+Use Similarity 
+answer : B correctAnswer: A
+Problem Number: 273
+Use Similarity 
+answer : B correctAnswer: B
+Problem Number: 274
+Use Similarity 
+answer : B correctAnswer: A
+Problem Number: 275
+Use Similarity 
+answer : B correctAnswer: B
+Problem Number: 276
+Use Similarity 
+answer : B correctAnswer: B
+Problem Number: 277
+Use Similarity 
+answer : B correctAnswer: A
+Problem Number: 278
+Use Similarity 
+answer : A correctAnswer: A
+Problem Number: 279
+Use Similarity 
+answer : A correctAnswer: B
+Problem Number: 280
+Use Key words :chased was
+answer : B correctAnswer: A
+Problem Number: 281
+Use Key words :ran was
+answer : B correctAnswer: B
+Problem Number: 282
+Use Similarity 
+answer : A correctAnswer: A
+Problem Number: 283
+Use Similarity 
+answer : B correctAnswer: B
