@@ -12,13 +12,11 @@ Here I use some method from those paper
 
 ## How can you use this code 
 1. Install spaCy and download spacy model
-
 pip install -U spacy
 
 python -m spacy download en_core_web_sm
 
 2. Just run python code without instructions
-
 ./NLP_PDPs.py
 
 wait for it ends
