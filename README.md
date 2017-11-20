@@ -10,7 +10,8 @@ Here I use some method from those paper
 - [spaCy -- Industrial-Strength Natural Language Processing](https://spacy.io/)
 - [ConceptNet](http://conceptnet.io/)
 
-## How can you use this code 
+## How can you use this code
+I will use python language, here you just need install spacy and run the model
 1. Install spaCy and download spacy model <br /> pip install -U spacy <br /> python -m spacy download en_core_web_sm
 
 2. Just run python code without instructions <br />./NLP_PDPs.py <br />wait for it ends
